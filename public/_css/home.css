@@ -1,0 +1,20 @@
+.upper{
+    width: 100%;
+    padding: 50px 100px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid rgba(0,0,0,0.3);
+}
+.search{
+    width: 100%;
+    font-size: 20px;
+    padding: 8px 12px;
+}
+.bottom{
+    width: 100%;
+    padding: 20px 100px;
+}
+.box{
+    width: 100%;
+    font-size: 16px;
+    margin-bottom: 30px;
+}

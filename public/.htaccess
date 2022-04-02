@@ -1,0 +1,10 @@
+DirectoryIndex App.php
+
+RewriteEngine on
+
+RewriteBase /App.php
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+ 
+RewriteRule ^(.*)$ App.php [QSA]

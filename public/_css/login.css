@@ -1,0 +1,24 @@
+body{
+    overflow: hidden;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+.form{
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.input{
+    width: 250px;
+    padding: 5px 12px;
+    font-size: 16px;
+}
+.btn{
+    width: 250px;
+    padding: 12px 0;
+    font-size: 16px;
+}
+.form *{
+    margin-bottom: 30px;
+}

@@ -1,0 +1,43 @@
+.main-info{
+    display: flex;
+}
+.tweet{
+    font-size: 30px;
+}
+.poster{
+    font-size: 16px;
+    opacity: 0.6;
+}
+.box-list{
+    margin-top: 30px;
+}
+.comment-box{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.btn{
+    padding: 3px 5px;
+}
+.box p{
+    font-size: 14px;
+    opacity: 0.6;
+}
+.box h5{
+    font-weight: normal;
+    font-size: 22px;
+}
+.input{
+    width: 100%;
+    padding: 5px 12px;
+    margin-bottom: 20px;
+}
+button{
+    width: 100%;
+    padding: 5px 12px;
+}
+.master-form{
+    display: none;
+}
